@@ -1,2 +1,3 @@
 code for feature1 on feature4
 new line 1 added for rebase
+new line 2 added for rebase for feature4 branch
