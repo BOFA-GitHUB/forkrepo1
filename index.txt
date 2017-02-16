@@ -1,2 +1,3 @@
 <html><head>testFile</head></html>
 test messages for index1
+added after creating the new branch called feature2
